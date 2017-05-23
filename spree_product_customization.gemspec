@@ -3,14 +3,15 @@ Gem::Specification.new do |s|
   s.platform    = Gem::Platform::RUBY
   s.name        = 'spree_product_customization'
   s.version     = '3.1.5'
-  s.summary     = 'TODO: Add gem summary here'
-  s.description = 'TODO: Add (optional) gem description here'
+  s.summary     = 'Instantly add Items to cart'
+  s.description = 'Adding products to the cart instantly from supplier products page '
+
   s.required_ruby_version = '>= 2.1.0'
 
-  # s.author    = 'You'
-  # s.email     = 'you@example.com'
-  # s.homepage  = 'http://www.spreecommerce.com'
-  s.license = 'BSD-3'
+  
+   s.author    = 'Karthik'
+   s.email     = 'karthikpamidimari@gmail.com'
+   s.license = 'BSD-3'
 
   # s.files       = `git ls-files`.split("\n")
   # s.test_files  = `git ls-files -- {test,spec,features}/*`.split("\n")
